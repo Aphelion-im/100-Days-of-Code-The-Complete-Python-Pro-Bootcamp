@@ -1,3 +1,5 @@
+# https://ascii.co.uk/art
+
 import random
 
 rock = '''
